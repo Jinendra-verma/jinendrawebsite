@@ -1,0 +1,49 @@
+body
+{  background-image: url("images/texture13.jpg");
+   background-attachment: fixed;
+   background-size:100% 100%;
+   opacity: 1.0;
+
+}
+.tabs{
+  background-color:black;
+  color:white;
+  float:left;
+  border: none;
+  cursor:pointer;
+  padding:15px 25px;
+  font-family:Arial Rounded MT;
+  font-size:16;
+  	}
+.tabs:hover{
+  background-color: #555
+}
+
+h1{
+font-family: freestyle script;
+font-size:50;
+}
+
+
+li{
+  font-family: chiller;
+  font-size: 35;
+  color: red;
+}
+p{
+
+  font-size:25;
+  font-family: curlz MT;
+}
+.p{
+  width:50%;height: 30%;
+  border:0px solid black;
+  padding-top: 50px;
+}
+
+.q{
+  width:50%;height: 30%;
+  border:0px solid black;
+  padding-top: 50px;
+  margin-left: 50%;
+}

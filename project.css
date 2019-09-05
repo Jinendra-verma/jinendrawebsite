@@ -1,0 +1,20 @@
+body
+{  background-image: url("images/texture8.jpg");
+   background-attachment:fixed;
+   background-size:100% 100%;
+
+}
+.tabs{
+  background-color:black;
+  color:white;
+  float:left;
+  border: none;
+  cursor:pointer;
+  padding:15px 25px;
+  font-family:Arial Rounded MT;
+  font-size:16;
+  	}
+.tabs:hover{
+  background-color: #555
+}
+

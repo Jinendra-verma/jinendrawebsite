@@ -1,0 +1,52 @@
+body
+{  background-image: url("images/texture6.jpg");
+   background-attachment:fixed;
+   background-size:50% 120%;
+
+}
+
+.tabs{
+  background-color:black;
+  color:white;
+  float:left;
+  border: none;
+  cursor:pointer;
+  padding:15px 25px;
+  font-family:Arial Rounded MT;
+  font-size:16;
+  	}
+.tabs:hover{
+  background-color: #555
+}
+
+.a {
+font-size:30;
+font-family:magneto;
+positin:relative;
+width:65%;
+}
+
+.b {
+font-size:30;
+font-family:magneto;
+positin:relative;
+width:65%;
+
+}
+.c {
+font-size:30;
+font-family:magneto;
+positin:relative;
+width:65%;
+
+}
+
+img{
+margin-left:66%;
+margin-top:-200px;
+}
+
+li{
+  font-family: gabriola;
+  font-size: 100;
+}
